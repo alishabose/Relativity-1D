@@ -88,4 +88,46 @@ This project investigates the potential harms of generative AI in the justice sy
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/example/repository.git
+   git clone https://github.com/example/repository.git](https://github.com/alishabose/Relativity-1D)
+
+## 8. Usage
+
+### Running the Analysis
+- Create a Gemini API account in order to copy and paste our code
+- Use your own secret key in the areas where it prompts for a key to run the API
+- Upload all csvs and ensure they are named correctly in order for the output to run
+
+## 8. Contributing
+- Clone your forked repository locally: git clone https://github.com/alishabose/Relativity-1D
+- Create a new branch for your feature or bug fix: git checkout -b feature-name
+- Make your changes and commit them: git commit -m "Add feature for advanced bias detection"
+- Push your branch to your forked repository: git push origin feature-name
+
+## 9. License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software.
+
+## 10. Credits and Acknowledgements
+
+**Team Members**
+
+   - *Lead* Alisha Bose (University of Washington)
+   - *Lead* Tia Jain (UC Berkeley)
+   - Amrit Randev (San Jose State University)
+   - Jack Le (UT Dallas)
+
+**Mentors**
+
+   Michelle Hui (AI Studio TA)
+   Piyush Ghai (Challenge Advisor, Relativity)
+
+**Resources**
+
+   Amazon Generalized Fairness Metrics dataset.
+   Gemini API for bias detection.
+
+Special thanks to Break Thru Tech and Relativity.
