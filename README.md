@@ -36,10 +36,10 @@ This project investigates the potential harms of generative AI in the justice sy
 ## 3. Results and Key Findings
 
 ### Key Performance Metrics
-- <img src="images/Results.png" width="150" style="border-radius:50%;"/>
-- <img src="images/Results2.png" width="150" style="border-radius:50%;"/>
-- <img src="images/Results3.png" width="150" style="border-radius:50%;"/>
-- <img src="images/Results4.png" width="150" style="border-radius:50%;"/>
+- <img src="images/Results.png" width="150" style="border-radius:100%;"/>
+- <img src="images/Results2.png" width="150" style="border-radius:100%;"/>
+- <img src="images/Results3.png" width="150" style="border-radius:100%;"/>
+- <img src="images/Results4.png" width="150" style="border-radius:100%;"/>
 
 ### Insights
 - Few-shot prompting outperformed other techniques, particularly for disability and ethnicity categories.
